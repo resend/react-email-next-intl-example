@@ -1,0 +1,21 @@
+{
+  "name": "react-email-next-intl-example",
+  "scripts": {
+    "build": "email build",
+    "dev": "email dev",
+    "export": "email export"
+  },
+  "dependencies": {
+    "@react-email/components": "1.0.4",
+    "next-intl": "4.7.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@react-email/preview-server": "5.2.3",
+    "@types/react": "19.2.8",
+    "@types/react-dom": "19.2.3",
+    "react-email": "5.2.3",
+    "typescript": "5.9.3"
+  }
+}
