@@ -1,0 +1,25 @@
+.github/workflows/build.yml
+  ef38125e20afc971 9
+.github/workflows/pr-title-check.yml
+  ef38125e20afc971 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "b8c9ec4d99c834f8945f3d8f3d3c3ba175db28c3",
+  "prompts": {
+    "ef38125e20afc971": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c52a385-faf2-4176-aee6-3dd4030c7242",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "João Melo",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
