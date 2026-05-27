@@ -7,13 +7,13 @@ This example shows how to use [React Email](https://react.email/) with [next-int
 1. Install dependencies
 
   ```sh
-npm install
+pnpm install
   ```
 
 2. Run Preview Server locally:
 
   ```sh
-npm run dev
+pnpm dev
   ```
 
 3. Open URL in the browser:
